@@ -3,6 +3,8 @@
     color: #333;
     font-size: 18px;
     line-height: 1.5;
+    width:50%;
+    margin:0 auto;
   }
   
   .contact-header {

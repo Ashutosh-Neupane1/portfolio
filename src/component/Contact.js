@@ -3,7 +3,7 @@ import '../styles/contact.css';
 
 const Contact = () => {
   return (
-    <div className="contact">
+    <div className="contact" id='contact'>
       <div className="contact-header">
         <h1>Contact Me</h1>
         <p>Get in touch with me through the form below or through the following social media channels:</p>

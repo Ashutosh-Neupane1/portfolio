@@ -7,13 +7,14 @@ const Projects = () => {
     
     
       
-        <div className="projects">
+        <div className="projects" id='project'>
           <div className="projects-header">
             <h1>My Projects</h1>
             <p>A selection of projects that I have worked on</p>
           </div>
           <div className="projects-content">
             <div className="project">
+             
               <img src="/project1.jpg" alt="Project 1" />
               <h2>Project 1</h2>
               <p>A brief description of project 1 goes here.</p>

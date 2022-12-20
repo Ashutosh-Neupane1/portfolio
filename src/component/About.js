@@ -4,11 +4,11 @@ import "../styles/about.css"
 
 const About = () => {
   return (
-    <div className="about">
+    <div className="about" id='about'>
     <div className="about-header">
   <h1>About Me</h1>
       <p>A little bit about who I am and what I do</p>
-      <img src="../"/>
+      <img src='./images/dog.jpg' alt='image'/>
       
     </div>
     <div className="about-content">

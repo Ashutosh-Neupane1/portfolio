@@ -39,4 +39,6 @@ footer{
   margin-bottom: 0;
   
 }
-
+.container ul li :hover{
+  cursor: pointer;
+}
