@@ -12,7 +12,7 @@ const Layout = (props) => {
     <Router>
 
     
-    <div className="container">
+    <div className="Container">
       <header>
         <h1>My Portfolio</h1>
         <nav>

@@ -1,4 +1,5 @@
 import React from 'react';
+import Carosel from "./Carosel"
 import "../styles/about.css"
 
 
@@ -8,7 +9,7 @@ const About = () => {
     <div className="about-header">
   <h1>About Me</h1>
       <p>A little bit about who I am and what I do</p>
-      <img src='./images/dog.jpg' alt='image'/>
+     <Carosel/>
       
     </div>
     <div className="about-content">

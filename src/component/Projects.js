@@ -15,7 +15,7 @@ const Projects = () => {
           <div className="projects-content">
             <div className="project">
              
-              <img src="/project1.jpg" alt="Project 1" />
+              <img src="./images/product.png" alt="Project 1" />
               <h2>Project 1</h2>
               <p>A brief description of project 1 goes here.</p>
               <ul>
@@ -29,7 +29,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="project">
-              <img src="/project2.jpg" alt="Project 2" />
+              <img src="./images/product1.jpg" alt="Project 2" />
               <h2>Project 2</h2>
               <p>A brief description of project 2 goes here.</p>
               <ul>
